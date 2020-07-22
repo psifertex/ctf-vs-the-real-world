@@ -55,5 +55,5 @@ Informational Repository tracking times that real world bugs have come out of CT
 
 ## TODO
 
--[ ] Sortable/better table format
--[ ] Standard tags for different types of interactions (used as legit challenge, found accidentally, used against infra, etc)
+- [ ] Sortable/better table format
+- [ ] Standard tags for different types of interactions (used as legit challenge, found accidentally, used against infra, etc)
