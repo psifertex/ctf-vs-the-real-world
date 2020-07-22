@@ -48,3 +48,12 @@ Informational Repository tracking times that real world bugs have come out of CT
     - https://i.blackhat.com/eu-19/Wednesday/eu-19-An-Far-Sides-Of-Java-Remote-Protocols.pdf 
 
 1. https://bugs.chromium.org/p/chromium/issues/detail?id=1077139
+
+1. CVE-2011-2018
+    - https://j00ru.vexillium.org/papers/2012/cve_2011_2018.pdf
+
+
+## TODO
+
+-[ ] Sortable/better table format
+-[ ] Standard tags for different types of interactions (used as legit challenge, found accidentally, used against infra, etc)
