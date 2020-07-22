@@ -44,3 +44,5 @@ Informational Repository tracking times that real world bugs have come out of CT
 1. Many CTF challenges have inspired real-world bug finding:
     - https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html?m=1
   
+1. CVE-2019-2684
+    - https://i.blackhat.com/eu-19/Wednesday/eu-19-An-Far-Sides-Of-Java-Remote-Protocols.pdf 
