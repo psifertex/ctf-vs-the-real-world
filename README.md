@@ -46,3 +46,5 @@ Informational Repository tracking times that real world bugs have come out of CT
   
 1. CVE-2019-2684
     - https://i.blackhat.com/eu-19/Wednesday/eu-19-An-Far-Sides-Of-Java-Remote-Protocols.pdf 
+
+1. https://bugs.chromium.org/p/chromium/issues/detail?id=1077139
