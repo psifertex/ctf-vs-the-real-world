@@ -1,7 +1,15 @@
 # ctf-vs-the-real-world
 Informational Repository tracking times that real world bugs have come out of CTF challenges intentionally or otherwise
 
-1. CVE-2012-1823
+1. CVE-2020-27348
+
+    - https://github.com/osirislab/CSAW-CTF-2019-Quals/tree/master/web/buyify
+
+1. CVE-202-27348
+
+    - https://twitter.com/itszn13/status/1369396838646833159
+
+3. CVE-2012-1823
 
     - http://eindbazen.net/2012/05/php-cgi-advisory-cve-2012-1823/
     - Unintended
