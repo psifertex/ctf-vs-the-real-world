@@ -1,11 +1,15 @@
 # ctf-vs-the-real-world
 Informational Repository tracking times that real world bugs have come out of CTF challenges intentionally or otherwise
 
-1. CVE-2020-27348
+1. CVE-2020-6512 (unconfirmed as of now which were specifically CTF related)
+
+    - https://twitter.com/psifertex/status/1643338176780533765
+
+3. CVE-2020-27348
 
     - https://github.com/osirislab/CSAW-CTF-2019-Quals/tree/master/web/buyify
 
-1. CVE-202-27348
+1. CVE-2020-27348
 
     - https://twitter.com/itszn13/status/1369396838646833159
 
