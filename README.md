@@ -1,7 +1,11 @@
 # ctf-vs-the-real-world
 Informational Repository tracking times that real world bugs have come out of CTF challenges intentionally or otherwise
 
-1. CVE-2020-6512 (unconfirmed as of now which were specifically CTF related)
+1. CVE-2016-5007
+
+    - https://www.intrinsec.com/cve-2016-5007-spring-security-mvc-path-matching-inconsistency/
+
+1. CVE-2020-6512 (unconfirmed CTF background)
 
     - https://twitter.com/psifertex/status/1643338176780533765
 
