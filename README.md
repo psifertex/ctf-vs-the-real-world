@@ -7,7 +7,7 @@ Informational Repository tracking times that real world bugs have come out of CT
 
 1. CVE-2020-6512 (unconfirmed CTF background)
 
-    - https://twitter.com/psifertex/status/1643338176780533765
+    - https://twitter.com/dmxcsnsbh/status/1643105597276188672
 
 3. CVE-2020-27348
 
